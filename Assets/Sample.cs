@@ -4,4 +4,5 @@ using UnityEngine;
 
 public class Sample : MonoBehaviour
 {
+    // Add comment.
 }
